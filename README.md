@@ -1,5 +1,5 @@
 Daniel Richter
-CTO @ Avantto
+@ Avantto
 
 Technology, software engineering, architecture, and product development. This is my professional GitHub account for projects and contributions related to Avantto Digital.
 
