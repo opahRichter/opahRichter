@@ -9,6 +9,8 @@ Under direction from the Head of Strategic Transformation • Strategic Planning
 
 .
 
+.
+
 Personal GitHub
 For my personal projects and other contributions:
 → @richters2
