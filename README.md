@@ -1,7 +1,7 @@
 Daniel Richter
 @ Avantto
 
-Technology, software engineering, architecture, and product development. This is my professional GitHub account for projects and contributions related to Avantto Digital.
+Technology Coordinator, software engineering, architecture, and product development. This is my professional GitHub account for projects and contributions related to Avantto Digital.
 
 Personal GitHub
 For my personal projects and other contributions:
