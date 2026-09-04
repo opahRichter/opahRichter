@@ -1,7 +1,10 @@
-Hi, I'm Daniel Richter 👋
+Daniel Richter
+CTO @ Avantto
 
-This is my professional GitHub account, dedicated to my work and contributions at Avantto.
+Technology, software engineering, architecture, and product development. This is my professional GitHub account for projects and contributions related to Avantto Digital.
 
-My primary GitHub account is @richters2, where you can find my personal projects, open-source contributions, and other work.
+Personal GitHub
+For my personal projects and other contributions:
+→ @richters2
 
-opahRichter and @richters2 belong to me and are intentionally kept as separate GitHub accounts.
+<sub>Professional account · @opahRichter</sub>
